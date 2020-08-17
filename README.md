@@ -7,7 +7,7 @@ sudo apt install libpcap0.8-dev
 ## 安装方法  
 mkdir -p velodyneDriver_ros2/src  
 cd velodyneDriver_ros2/src
-git clone https://github.com/wangxizhe/velodyne.git
+git clone https://github.com/wangxizhe/velodyne_driver_ros2.git
 cd ..  
 colcon build  
 
