@@ -13,4 +13,4 @@ colcon build
 
 ## 运行方法  
 . install/setup.bash  
-ros2 launch velodyne 
+ros2 launch velodyne velodyne-all-nodes-VLP16-launch.py 
